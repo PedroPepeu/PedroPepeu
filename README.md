@@ -19,6 +19,6 @@ Olá, sou Pedro Pepeu!
  <a href="https://www.reddit.com/user/_peu" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation]
+![Snake animation](https://github.com/PedroPepeu/PedroPepeu/blob/output/github-contribution-grid-snake.svg)
 
 </div>
