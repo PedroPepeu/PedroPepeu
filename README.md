@@ -1,8 +1,8 @@
 <head><i><h3>Hello, my name is Pedro Pepeu!</h3></i></head>
-<p>
+<p style="background_color: blue">
   I'm an Computer Cience Student, that's always trying to improve and getting over myself more and more.
   
-  In my weekends I try to take some time to myself, so I watch movies (alone and with my family and friends), play some games (I'm in Sekiro vibes at the time), and     read books, my favorite is 'The little prince', and I'm reading the trilogy 'The Divine Comedy' past those days. I also like to play board games, war is game I play   the most, my mother also likes it so we have a lot of fun together.
+  In my weekends I try to take some time to myself, so I watch movies (alone and with my family and friends), play some games (I'm in Sekiro vibes at the time), and     read books, my favorite is 'The little prince', and I'm reading the trilogy 'The Divine Comedy' past those days. I also like to play board games, War is the game I play   the most, my mother also likes it so we have a lot of fun together.
   
   Well, welcome to my page, hope you like my programs, some I made for fun, other for study, but always getting self-improvement.
 </p>
