@@ -6,7 +6,7 @@
   
   In my weekends I try to take some time to enjoy life, so I watch movies (alone or with my family and friends), play some games (I'm in Sekiro vibes at the time), go out with my friends, and I'm reading the trilogy 'The Divine Comedy' past those days. I also like to play board games, 'War' is the game I   play   the most, my mother also likes it so we have a lot of fun together.
   
-  Well, welcome to my page, hope you like my programs, always having fun and studing, and getting self-improvement.
+  Well, welcome to my repository, hope you like my programs, always having fun and studing, and getting self-improvement.
 </p>
 
 
