@@ -28,7 +28,7 @@
 ##
 
 </div>
- // social media
+
 </div>
 
 ![Snake animation](https://github.com/PedroPepeu/PedroPepeu/blob/output/github-contribution-grid-snake.svg)
